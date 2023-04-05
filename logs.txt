@@ -1,0 +1,36 @@
+commit 98567900f211dfc09db634e9409209394bf73b1b
+Author: Jovan <jovan.stojanovski55@gmail.com>
+Date:   Wed Apr 5 16:28:37 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 9e4dd7f083e851578e370feedd18753c3fc36c11
+Merge: 7c244ed 6509940
+Author: Jovan <jovan.stojanovski55@gmail.com>
+Date:   Wed Apr 5 16:30:20 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 65099404ed7e597a67365dfd998eb08d926615b2
+Author: Jovan <jovan.stojanovski55@gmail.com>
+Date:   Wed Apr 5 16:27:58 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7c244ed82a6a081f228cd05059251c631d665e41
+Author: Jovan <jovan.stojanovski55@gmail.com>
+Date:   Wed Apr 5 16:27:20 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 83b8195a6c19a08e6eae54546a4bf2d888bee10d
+Author: Jovan <jovan.stojanovski55@gmail.com>
+Date:   Wed Apr 5 16:25:25 2023 +0200
+
+    Add java class
+
+commit 9095ba66478b90b2f35f34dc11130c463e107b45
+Author: Jovan <jovan.stojanovski55@gmail.com>
+Date:   Wed Apr 5 16:23:40 2023 +0200
+
+    Initial commit
